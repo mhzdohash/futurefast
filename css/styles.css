@@ -383,9 +383,8 @@ select:disabled {
 button,
 [type=button],
 [type=reset],
-[type=submit] {
-  -webkit-appearance: button;
-}
+[type=submit],
+
 button:not(:disabled),
 [type=button]:not(:disabled),
 [type=reset]:not(:disabled),
@@ -10948,7 +10947,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("https://img.freepik.com/fotos-gratis/colheita-de-trigo-em-prado-tranquilo-ao-por-do-sol-gerado-por-ia_24640-80628.jpg?w=1480&t=st=1699486594~exp=1699487194~hmac=7ebd2aa46df0012b15fb9488b0150676458f3f4f41ae95903570503d299447e9");
+  background-image: url("https://images.unsplash.com/photo-1615820346289-9581ad2a8bf7?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
